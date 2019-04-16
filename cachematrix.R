@@ -34,3 +34,4 @@ cacheSolve <- function(x, ...){                 # function takes a argument x wh
   i                                             # Printing the inverse value                 
 }
 
+#git worked
